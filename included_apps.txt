@@ -1,0 +1,2 @@
+VideoLAN.VLC
+Zoom.Zoom
